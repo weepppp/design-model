@@ -1,4 +1,4 @@
-package com.tang.createmode.adaptermode;
+package com.tang.structuralmode.adaptermode;
 
 /**
  * @author weepppp 2022/7/12 8:26
