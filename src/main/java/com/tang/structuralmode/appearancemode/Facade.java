@@ -15,6 +15,7 @@ public class Facade {
     }
 
     // 自定义拿取任何实现类的任何功能
+
     public void methodA() {
         sa.methodA();
         sb.methodB();

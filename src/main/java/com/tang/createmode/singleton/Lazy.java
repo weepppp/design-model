@@ -12,9 +12,12 @@ public class Lazy {
 
     private static Lazy lazy = null;
 
+    public Lazy() {
+    }
+
     public static Lazy getLazy(){
         if (lazy == null) {
-            return new Lazy();
+            lazy =  new Lazy();
         }
         return lazy;
     }
